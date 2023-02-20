@@ -1,0 +1,10 @@
+.user {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  justify-content: space-between;
+}
